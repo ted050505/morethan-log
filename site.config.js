@@ -12,19 +12,19 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `JungJunHyeok`,
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "jungjunhyeok-log",
-    description: "welcome to jungjunhyeok-log!",
+    title: "JungJunHyeok",
+    description: "welcome to JungJunHyeok's World!",
   },
 
   // CONFIG configration (required)
   link: "jungjunhyeok.com",
-  since: 2022, // If leave this empty, current year will be used.
+  since: 2024, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
