@@ -3,7 +3,7 @@ const CONFIG = {
   profile: {
     name: "jungjunhyeok",
     image: "/memo_01.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Engineer",
+    role: "Engineer/Student",
     bio: "",
     email: "ted05050505@gmail.com",
     linkedin: "junhyeok-jung",
@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `JungJunHyeok`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "www.jungjunhyeok.com",
     },
   ],
   // blog setting (required)
