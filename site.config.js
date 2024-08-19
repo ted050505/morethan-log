@@ -2,11 +2,11 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "jungjunhyeok",
-    image: "/memo_01.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Engineer/Student",
+    image: "/junhyeok.JPG", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "Student",
     bio: "",
     email: "ted05050505@gmail.com",
-    linkedin: "junhyeok-jung",
+    linkedin: "junhyeok jung",
     github: "ted050505",
     instagram: "",
   },
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "JungJunHyeok",
-    description: "welcome to JungJunHyeok's World!",
+    description: "welcome to JunHyeok's World!",
   },
 
   // CONFIG configration (required)
